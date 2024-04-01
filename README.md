@@ -1,6 +1,7 @@
 # Discord Loot Box Opener 🎁
 
-This project automates the process of opening loot boxes on Discord using a user's token. Follow these steps to set up and run the script. 
+This project automates the process of opening loot boxes on Discord using a user's token.
+![Preview](https://github.com/Tenclea/Discord-Loobox-Opener/assets/62174952/560cd9b4-b1f0-48d5-a99c-9a9474a50996)
 
 ## Disclaimer ⚠️
 
