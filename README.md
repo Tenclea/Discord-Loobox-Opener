@@ -9,7 +9,7 @@ This project is a Proof of Concept (POC) and is for educational purposes only. U
 
 
 ## Pre-requisites 📋
-- [Node.js](https://nodejs.org/en/download) installed on your computer.
+- [Node.js](https://nodejs.org/en/download) v20 (or a more recent version) installed on your computer.
 - Your Discord token. (⚠️ **Never share your token with others**)
 
 ## Running the Script 🚀
@@ -27,8 +27,6 @@ This will start the script.
 2. **Input Your Token**
 
 The script will prompt you to 'Input your token: '. Paste your Discord token here and press Enter. 
-
-⚠️ The script does not store your token anywhere, but always be cautious with your token to avoid misuse.
 
 3. **Profits!**
 
